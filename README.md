@@ -38,7 +38,7 @@
 
 3. Configura el archivo de entorno. Crea un archivo `.env` y ajusta las variables según tus necesidades.
 
-4. Importa la base de datos en MySQL utilizando el archivo `database.sql` proporcionado.
+4. Importa la base de datos en MySQL utilizando el archivo `mi_viajazo.sql` proporcionado.
 
 5. Configura la conexión a la base de datos en el archivo de configuración de PHP (por ejemplo, `config.php`).
 
@@ -46,7 +46,7 @@
 
 ## Uso
 
-1. Accede a la aplicación en tu navegador en `http://localhost/mi-viajazo` (o el directorio especificado en tu servidor local).
+1. Accede a la aplicación en tu navegador en `http://localhost/MiViajazo/html/index.html` (o el directorio especificado en tu servidor local).
 2. Inicia sesión con tus credenciales de administrador para comenzar a gestionar clientes, reservas y paquetes.
 3. Explora el panel de administración para acceder a las distintas funcionalidades y generar informes.
 
